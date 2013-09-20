@@ -1,4 +1,2 @@
-lastleaf.github.io
-==================
-
-The LastLeaf github homepage.
+# LastLeaf's Github Website #
+Em. That's it.
